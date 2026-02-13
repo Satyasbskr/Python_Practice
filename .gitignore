@@ -1,0 +1,9 @@
+# Ignore Python cache directories
+__pycache__/
+
+# You can add more rules below as needed
+
+# Ignore environment files with credentials
+config/.env.prod
+config/.env.stage
+config/.env.test
