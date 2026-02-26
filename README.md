@@ -11,6 +11,7 @@ This framework is designed for UI automation using Playwright with Python.
 - `results/` - Test results and reports
 - `config/` - Environment variables (.env files)
 
+
 ## Environments
 - `.env.prod` - Production
 - `.env.test` - Test
